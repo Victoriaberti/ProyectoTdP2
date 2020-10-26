@@ -1,8 +1,8 @@
-# ProyectoTdP2
+# Sudoku eeveelution
 
 Reglamento del juego.
 
-El juego consiste en completar el tablero con eevee y todas sus evoluciones.
+El juego consiste en completar el tablero con Eevee y todas sus evoluciones.
 
 Cada pokémon debe encontrarse sólo una vez por fila, una vez por columna y una vez por cuadrante.
 
